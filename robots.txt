@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tuweben3dias.github.io/demo-crecia-bolleria/sitemap.xml

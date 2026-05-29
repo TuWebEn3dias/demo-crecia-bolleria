@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#FEF8F0" rx="12"/>
+  <rect x="20" y="20" width="160" height="160" fill="none" stroke="#D4815A" stroke-width="2" rx="8"/>
+  <rect x="30" y="30" width="140" height="140" fill="none" stroke="#D4815A" stroke-width="1.5" rx="6"/>
+  <text x="100" y="80" font-size="40" text-anchor="middle" fill="#D4815A">📄</text>
+  <text x="100" y="130" font-size="11" text-anchor="middle" fill="#8A7A6E" font-family="DM Sans, sans-serif">Menú</text>
+  <text x="100" y="150" font-size="8" text-anchor="middle" fill="#8A7A6E" font-family="DM Sans, sans-serif">Escaneá para ver</text>
+</svg>
